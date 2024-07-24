@@ -23,7 +23,7 @@ https://{XRAY_SUBSCRIPTION_URL_PREFIX}/{XRAY_SUBSCRIPTION_PATH}/{JWT_TOKEN}/{KEY
 
 ### XRAY_SUBSCRIPTION_URL_PREFIX
 
-:::tip
+:::Подсказка
 Является обязательным значением.
 :::
 
@@ -43,7 +43,7 @@ https://{XRAY_SUBSCRIPTION_URL_PREFIX}/{XRAY_SUBSCRIPTION_PATH}/{JWT_TOKEN}/{KEY
 
 ### XRAY_SUBSCRIPTION_PATH
 
-:::tip
+:::Подсказка
 Является обязательным значением.
 :::
 
@@ -57,7 +57,7 @@ https://{XRAY_SUBSCRIPTION_URL_PREFIX}/{XRAY_SUBSCRIPTION_PATH}/{JWT_TOKEN}/{KEY
 
 ### JWT_TOKEN
 
-:::tip
+:::Подсказка
 Является обязательным значением.
 :::
 
@@ -128,7 +128,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMTIzIiwiYWNjZXNzIjoic3Vic2N
 
 ### KEY
 
-:::tip
+:::Подсказка
 Опциональное значение
 :::
 С помощью обьявленных в конце ссылки ключей, Вы можете воспользоваться дополнительными возможностями
